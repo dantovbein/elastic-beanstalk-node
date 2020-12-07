@@ -1,0 +1,21 @@
+{
+  "name": "elastic-beanstalk-node",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dantovbein/elastic-beanstalk-node.git"
+  },
+  "author": "Dan Tovbein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dantovbein/elastic-beanstalk-node/issues"
+  },
+  "homepage": "https://github.com/dantovbein/elastic-beanstalk-node#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.4",
+    "sharp": "^0.26.3"
+  }
+}
